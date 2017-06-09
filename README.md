@@ -9,5 +9,9 @@ https://github.com/lindell/JsBarcode
 
 Also note that some barcode types may have requirements on the values they can represent, such as EAN type must be a 13 digit number. See the documentation for the barcode type you are using before implementing in your solution.
 
+Added better support for Windows version where long URLs are not supported and may fail. Note that this uses the user clipboard to transfer data from the web viewer to a field.
+
+Updated for FileMaker 16 with security setting to allow for fmpurl protocol.
+
 Read more here:
 http://www.soliantconsulting.com/blog/ ...coming soon.
