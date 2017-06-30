@@ -14,4 +14,4 @@ Added better support for Windows version where long URLs are not supported and m
 Updated for FileMaker 16 with security setting to allow for fmpurl protocol.
 
 Read more here:
-http://www.soliantconsulting.com/blog/ ...coming soon.
+http://www.soliantconsulting.com/blog/2017/06/filemaker-16-javascript-changes
