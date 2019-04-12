@@ -15,3 +15,8 @@ Updated for FileMaker 16 with security setting to allow for fmpurl protocol.
 
 Read more here:
 http://www.soliantconsulting.com/blog/2017/06/filemaker-16-javascript-changes
+
+Update: The ability to generate PDF417 barcodes was added by using the GitHub project here:
+https://github.com/bkuzmic/pdf417-js
+
+This addition also highlights the technique to get the result of an HTML5 canvas object and return it to a FileMaker container as a PNG.
